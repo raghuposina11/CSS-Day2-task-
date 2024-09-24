@@ -1,0 +1,194 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#hed{
+    text-align: center;
+    color: chocolate;
+    background: black;
+    padding: 100px ;
+}
+.container1{
+    display: flex;
+    background-color: black;
+}
+
+.ele1{
+    display: flex;
+}
+.itm1,.itm2,.itm3,.itm4,.itm5,.itm6{
+    background-color: pink;
+    text-align: center;
+    padding: 80px 50px 20px 50px;
+    margin: 100px;
+    width: 450px;
+    height: 200px;
+}
+
+
+
+
+.itm2{
+    background-color: lightyellow;
+}
+.itm3{
+    background-color:lightcyan;
+}
+.itm4{
+    background-color:lightgray;
+}
+.itm5{
+    background-color:lightskyblue;
+}
+.itm6{
+    background-color:lightcyan;
+}
+.itm7,.itm8{
+    background-color: pink;
+    text-align: center;
+    padding: 80px 50px 20px 50px;
+    margin: 100px;
+    width: 450px;
+    height: 100px;
+}
+.itm8{
+    background-color: lightyellow;
+
+}
+
+.itm9,.itm10,.itm11,.itm12,.itm13,.itm14,.itm15,.itm16,.itm17,.itm18,.itm19,.itm20,.itm21,.itm22,.itm23,.itm24,.itm25,.itm26,.itm27,.itm28{
+    background-color: pink;
+    text-align:center;
+    padding: 50px 12.5px 5px 12.5px;
+    margin: 50px;
+    width: 250px;
+    height: 100px;
+}
+    
+.itm9{
+    background-color: lightblue;
+
+}
+.itm10{
+    background-color: lightcoral;
+
+}
+
+.itm11{
+    background-color: lightcyan;
+
+}
+.itm12{
+    background-color: lightgoldenrodyellow;
+
+}
+.itm13{
+    background-color: lightgray;
+
+}
+.itm14{
+    background-color: lightgreen;
+
+}
+
+.itm15{
+    background-color: lightgrey;
+
+}
+.itm16{
+    background-color: lightpink;
+
+}
+
+.itm17{
+    background-color: lightsalmon;
+
+}
+.itm18{
+    background-color: lightseagreen;
+
+}
+
+.itm19{
+    background-color: lightskyblue;
+
+}
+.itm20{
+    background-color: lightslategray;
+
+}
+
+.itm21{
+    background-color: lightyellow;
+
+}
+.itm22{
+    background-color: lightblue;
+
+}
+
+.itm23{
+    background-color: lightsteelblue;
+
+}
+.itm24{
+    background-color: lightcoral;
+
+}
+
+.itm25{
+    background-color: lightpink;
+
+}
+.itm26{
+    background-color: lightseagreen;
+
+}
+
+.itm27{
+    background-color: lightcyan;
+
+}
+.itm28{
+    background-color: lightgreen;
+
+}
+
+.itm29,.itm30,.itm31,.itm32{
+    background-color: pink;
+    text-align: center;
+    padding: 80px 50px 20px 50px;
+    margin: 100px;
+    width: 450px;
+    height: 100px;
+}
+.itm29{
+    background-color:lightsalmon;
+
+}
+.itm30{
+    background-color: lightblue;
+
+}
+
+.itm31{
+    background-color:lightseagreen;
+
+}
+.itm32{
+    background-color: lightpink;
+
+}
+
+
+.all1{
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.butt{
+    padding: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+
+}
